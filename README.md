@@ -25,6 +25,10 @@ The dataset acquired in order to carry out the evaluation consisted of paired T1
 from segregated brain scans. The data was split into a
 training set of 90 slices and a testing set of 36 slices.
 
+## Screenshots
+
+![Modified UNET ](https://github.com/yashvimalu/Medical-Image-Translation-Brain-MRI-Dicom-Images/blob/main/Final%20Unet.png)
+
 ## Authors
 
 - [@yashvimalu](https://github.com/yashvimalu)
