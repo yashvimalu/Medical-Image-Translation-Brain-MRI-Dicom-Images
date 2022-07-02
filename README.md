@@ -2,8 +2,8 @@
 # Multi Modality Medical Image Translation for Dicom Brain Images
 
 
-The acquisition time for different MRI (Magnetic Resonance Imaging) image modalities pose a unique challenge to the efficient usage of the contemporary radiology technologies. The ability to synthesize one modality
-from another can benefit the diagnostic utility of the scans. Currently, all the exploration in the field of medical image to image translation is focused on NIfTI (Neuroimaging Informatics Technology Initiative) images.
+The acquisition time for different MRI (Magnetic Resonance Imaging) image modalities pose a unique challenge to the efficient usage of the contemporary radiology technologies. The ability to synthesize one modality
+from another can benefit the diagnostic utility of the scans. Currently, all the exploration in the field of medical image to image translation is focused on NIfTI (Neuroimaging Informatics Technology Initiative) images.
 However, DICOM (Bidgood et al., 1997) images are the prevalent image standard in MRI centers. Here,
 we propose a modified deep learning network based on U-Net architecture for T1-Weighted image (T1WI)
 modality to T2-Weighted image (T2WI) modality image to image translation for DICOM images and vice
