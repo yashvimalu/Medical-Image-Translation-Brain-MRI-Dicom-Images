@@ -45,7 +45,7 @@ training set of 90 slices and a testing set of 36 slices.
 - Dr. Nirali Nanavati
 - Preethi Srinivasan
 -  Arnav Bhavsar
--  
+
 ## Paper
 
 https://www.scitepress.org/PublicationsDetail.aspx?ID=31VvJZqo8uo=&t=1
