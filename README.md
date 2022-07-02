@@ -23,7 +23,7 @@ We got the dataset from an MRI Imaging Center solely for research purpose.
 The dataset acquired in order to carry out the evaluation consisted of paired T1W and T2W images for
 21 subjects. Per subject 18 axial slices were available
 from segregated brain scans. The data was split into a
-training set of 90 slices and a testing set of 36 slices
+training set of 90 slices and a testing set of 36 slices.
 ## Authors
 
 - [@yashvimalu](https://github.com/yashvimalu)
