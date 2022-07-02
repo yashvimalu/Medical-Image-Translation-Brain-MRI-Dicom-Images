@@ -24,6 +24,7 @@ The dataset acquired in order to carry out the evaluation consisted of paired T1
 21 subjects. Per subject 18 axial slices were available
 from segregated brain scans. The data was split into a
 training set of 90 slices and a testing set of 36 slices.
+
 ## Authors
 
 - [@yashvimalu](https://github.com/yashvimalu)
@@ -31,6 +32,10 @@ training set of 90 slices and a testing set of 36 slices.
 - [@urmi6899](https://github.com/urmi6899)
 - Jinal Patel
 - Ninad Anklesaria
+- Dr. Nirali Nanavati
+- Preethi Srinivasan
+-  Arnav Bhavsar
+-  
 ## Paper
 
 https://www.scitepress.org/PublicationsDetail.aspx?ID=31VvJZqo8uo=&t=1
